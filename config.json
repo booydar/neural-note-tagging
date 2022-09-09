@@ -1,0 +1,10 @@
+{
+    "folder_path": "/home/booydar/Documents/Sync/obsidian-db/",
+    "run_period_days": 2, 
+    "model_name": "DeepPavlov/bert-base-multilingual-cased-sentence",
+    "batch_size": 2,
+    "min_n_clusters": 0.1, "max_n_clusters": 0.4, 
+    "affinity": "euclidean",
+    "device": "cuda",
+    "note_min_length": 100
+}
