@@ -17,7 +17,7 @@ This repository contains code for automatic tagging (creating tags/zero-links) n
 Plain uncategorized notes
 ![**Before**](images/b4.jpg?raw=True )
 
-### After:** 
+### After:
 
 Notes linked to clusters
 ![**After**](images/after.jpg?raw=True)
