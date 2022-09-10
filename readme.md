@@ -15,7 +15,7 @@ This repository contains code for automatic tagging (creating tags/zero-links) n
 ### Before: 
 
 Plain uncategorized notes
-![**Before**](images/b4.jpg?raw=True )
+![**Before**](images/b4.jpg?raw=True)
 
 ### After:
 
@@ -31,9 +31,9 @@ Notes linked to clusters
 
 
 ### Usage
-- Make sure you have a GPU or enough CPU to run a NN inference.
+- Make sure you have a GPU or enough CPU to run a NN inference
 - Install torch, transformers, sklearn
-- Add path to your DB to config.json.
+- Add path to your DB to config.json
 - Run tagging:
     python main.py
 - Visualize using some zettelkasten tool (e.g. [Obsidian](https://obsidian.md/))
