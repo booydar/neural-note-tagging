@@ -15,11 +15,13 @@ This repository contains code for automatic tagging (creating tags/zero-links) n
 ### Before: 
 
 Plain uncategorized notes
+
 ![**Before**](images/b4.jpg?raw=True)
 
 ### After:
 
 Notes linked to clusters
+
 ![**After**](images/after.jpg?raw=True)
 
 ### Algorithm
