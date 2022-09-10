@@ -12,14 +12,14 @@ However links and tags need to be created manually, which makes this system not 
 ### Idea
 This repository contains code for automatic tagging (creating tags/zero-links) notes using pretrained Transformer neural networks. Notes are vectorized using pretrained NLP models and then clustered using unsupervised KMeans algorithm.
 
-<!-- [**Before**](images/b4.jpg)
+![**Before**](images/b4.jpg?raw=True "Plain uncategorized notes")
 
-[**After**](images/after.jpg) -->
-**Before: **
+![**After**](images/after.jpg?raw=True "Notes linked to clusters")
+<!-- **Before: **
 [[images/b4.jpg]]
 
 **After: **
-[[images/after.jpg]]
+[[images/after.jpg]] -->
 
 ### Algorithm
 1) Notes are loaded with python
